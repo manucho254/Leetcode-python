@@ -1,2 +1,2 @@
 # Leetcode-python
-Solving problem leetcode problem with python
+Solving leetcode problems with python
